@@ -1,4 +1,4 @@
-# Класс DataPersistence
+# Класс DataPersistence#
 class DataPersistence:
     def __init__(self):
         # Инициализация модуля сохранения и загрузки данных фракталов
