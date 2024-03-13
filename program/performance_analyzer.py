@@ -1,3 +1,4 @@
+# Класс PerformanceAnalyzer
 class PerformanceAnalyzer:
     def __init__(self):
         # Инициализация модуля анализа производительности
