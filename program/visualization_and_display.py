@@ -12,7 +12,7 @@ class ImageRenderer:
         # Сохранение фрактального изображения в файл
         pass
 
-#Класс ImageRenderer
+#Класс InteractiveUI
 class InteractiveUI:
     def __init__(self):
         # Инициализация интерактивного пользовательского интерфейса
