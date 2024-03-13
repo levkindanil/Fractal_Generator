@@ -1,4 +1,4 @@
-# Класс ParameterTuner
+# Класс ParameterTuner#
 class ParameterTuner:
     def __init__(self):
         # Инициализация модуля настройки параметров генерации фракталов
