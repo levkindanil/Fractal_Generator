@@ -1,3 +1,4 @@
+# Класс FractalGenerator
 class FractalGenerator:
     def __init__(self):
         # Инициализация модуля "краткое описание"
@@ -16,6 +17,7 @@ class FractalGenerator:
         pass
 
 
+# Класс FractalAlgorithms
 class FractalAlgorithms:
     def __init__(self):
         # Инициализация модуля "краткое описание"
@@ -33,6 +35,7 @@ class FractalAlgorithms:
         # Генерация фрактала на основе метода IFS
         pass
 
+# Класс IterationControl
 class IterationControl:
     def __init__(self):
         # Инициализация модуля управления числом итераций

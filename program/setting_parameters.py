@@ -1,4 +1,4 @@
-
+# Класс ParameterTuner
 class ParameterTuner:
     def __init__(self):
         # Инициализация модуля настройки параметров генерации фракталов
@@ -12,7 +12,7 @@ class ParameterTuner:
         # Восстановление параметров по умолчанию
         pass
 
-
+# Класс CoordinateSystem
 class CoordinateSystem:
     def __init__(self):
         # Инициализация системы координат для фракталов
@@ -26,7 +26,7 @@ class CoordinateSystem:
         # Преобразование координат точки в соответствии с текущей системой координат
         pass
 
-
+# Класс MathematicalFunctions
 class MathematicalFunctions:
     def __init__(self):
         # Инициализация модуля математических функций для фрактальных вычислений
