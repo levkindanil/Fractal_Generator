@@ -1,4 +1,4 @@
-# Класс FractalGenerator
+# Класс FractalGenerator#
 class FractalGenerator:
     def __init__(self):
         # Инициализация модуля "краткое описание"
