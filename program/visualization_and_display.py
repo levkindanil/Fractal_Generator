@@ -26,7 +26,7 @@ class InteractiveUI:
         # Обработка ввода пользователя
         pass
 
-#Класс ImageRenderer
+#Класс UserFeedback
 class UserFeedback:
     def __init__(self):
         # Инициализация модуля предоставления обратной связи пользователю
