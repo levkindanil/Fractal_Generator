@@ -26,6 +26,8 @@ class InteractiveUI:
         # Обработка ввода пользователя
         pass
 
+#---------------------------------------------------------------------------#
+
 #Класс UserFeedback
 class UserFeedback:
     def __init__(self):
