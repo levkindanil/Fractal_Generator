@@ -1,3 +1,9 @@
+# Класс ParallelProcessing
+# Trying
+# Destroy
+# This
+# PROOOOOJECT
+
 class ParallelProcessing:
     def __init__(self):
         # Инициализация модуля параллельной обработки данных
