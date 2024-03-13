@@ -26,7 +26,7 @@ class CoordinateSystem:
         # Преобразование координат точки в соответствии с текущей системой координат
         pass
 
-
+# Класс MathematicalFunctions
 class MathematicalFunctions:
     def __init__(self):
         # Инициализация модуля математических функций для фрактальных вычислений
