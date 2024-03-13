@@ -1,3 +1,4 @@
+#Класс ImageRenderer
 class ImageRenderer:
     def __init__(self):
         # Инициализация модуля рендеринга изображений фракталов
@@ -11,7 +12,7 @@ class ImageRenderer:
         # Сохранение фрактального изображения в файл
         pass
 
-
+#Класс ImageRenderer
 class InteractiveUI:
     def __init__(self):
         # Инициализация интерактивного пользовательского интерфейса
@@ -25,7 +26,7 @@ class InteractiveUI:
         # Обработка ввода пользователя
         pass
 
-
+#Класс ImageRenderer
 class UserFeedback:
     def __init__(self):
         # Инициализация модуля предоставления обратной связи пользователю
