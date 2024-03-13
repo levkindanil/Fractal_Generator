@@ -1,3 +1,4 @@
+#Класс AnimationEngine
 class AnimationEngine:
     def __init__(self):
         # Инициализация модуля создания анимаций фракталов
