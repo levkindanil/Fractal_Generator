@@ -1,4 +1,4 @@
-#Класс ImageRenderer
+#Класс ImageRenderer#
 class ImageRenderer:
     def __init__(self):
         # Инициализация модуля рендеринга изображений фракталов
