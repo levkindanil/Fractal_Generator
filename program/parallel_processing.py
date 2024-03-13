@@ -1,4 +1,4 @@
-# Класс ParallelProcessing
+# Класс ParallelProcessing#
 # Trying
 # Destroy
 # This
