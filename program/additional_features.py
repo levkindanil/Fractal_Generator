@@ -1,3 +1,4 @@
+# Класс ColorPaletteGenerator
 class ColorPaletteGenerator:
     def __init__(self):
         # Инициализация генератора цветовых палитр
@@ -20,7 +21,7 @@ class NoiseGenerator:
         # Добавление случайного шума к фрактальному изображению
         pass
 
-
+# Класс CoordinateMapping
 class CoordinateMapping:
     def __init__(self):
         # Инициализация модуля преобразования координат
@@ -29,7 +30,8 @@ class CoordinateMapping:
     def map_coordinates(self, point, mapping_function):
         # Преобразование координат точки с использованием заданной функции отображения
         pass
-
+        
+# Класс CustomizableIFS
 class CustomizableIFS:
     def __init__(self):
         # Инициализация модуля для создания собственных фракталов на основе метода IFS
@@ -43,7 +45,7 @@ class CustomizableIFS:
         # Генерация собственного фрактала на основе метода IFS с заданным числом итераций
         pass
 
-
+# Класс PatternLibrary
 class PatternLibrary:
     def __init__(self):
         # Инициализация библиотеки шаблонов фракталов
