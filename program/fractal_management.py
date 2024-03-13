@@ -8,7 +8,7 @@ class FractalGenerator:
         pass
 
     def set_coordinate_system(self, system_type):
-        # Установка типа системы координат для фрактала
+        # Установка типа системы координат для фрактала!
         pass
 
     def render_fractal(self, image_size):
