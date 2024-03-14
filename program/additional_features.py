@@ -1,4 +1,4 @@
-####
+####№
 # Класс ColorPaletteGenerator
 class ColorPaletteGenerator:
     def __init__(self):
